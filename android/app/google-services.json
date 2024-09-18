@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665542067212",
+    "project_id": "buxoro-toshkent",
+    "storage_bucket": "buxoro-toshkent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665542067212:android:a4d7f2a7746bfb88599a29",
+        "android_client_info": {
+          "package_name": "com.example.buxorotoshkent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxqEMbBb17GCFjzx7O62VFnSBVaAcmF2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
